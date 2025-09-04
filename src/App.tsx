@@ -42,7 +42,9 @@ function App() {
     <>
       <StrictMode>
         <NextUIProvider>
-        <RouterProvider router={router} />
+          <main className="dark text-foreground bg-background">
+            <RouterProvider router={router} />
+          </main>
         </NextUIProvider>
       </StrictMode>
     </>
