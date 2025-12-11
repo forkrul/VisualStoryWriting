@@ -1,4 +1,9 @@
 # Visual Story-Writing: Writing by Manipulating Visual Representations
+
+<div align="center">
+  <img src="docs/images/logo-concept-a.png" alt="Logo A" width="400">
+  <img src="docs/images/logo-concept-b.png" alt="Logo B" width="400">
+</div>
 <img src="demo.gif">
 
 ## [Online Demo](https://damienmasson.com/VisualStoryWriting) / [How to build](#how-to-build-and-run) / [Publication](#publication)
